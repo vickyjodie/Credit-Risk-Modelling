@@ -7,4 +7,6 @@ This Virtual Intership Experience was held by collaborative program between ID/X
 Elaboration:
 Collaborated with various other departments on this project to provide technology solutions for the company. I was asked to build a model that can predict credit risk using a dataset provided by the company which consists of data on loans received and those that were rejected. 
 
-Note: end-to-end solution.
+Work of progress: end-to-end solution.
+
+Disclaimer: The dataset can't be uploaded because has big size more than 200 mb.
