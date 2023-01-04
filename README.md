@@ -14,5 +14,5 @@ end-to-end solution.
 
 Disclaimer: 
 
-The dataset can't be uploaded because has big size more than 200 mb.
+The dataset can't be uploaded in github because has big size more than 200 mb.
 Link to see dataset: https://drive.google.com/file/d/1d3q3zaOxFNhVCtfAHbvOJhKSt_0HfpAQ/view?usp=share_link 
